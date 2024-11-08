@@ -1,0 +1,21 @@
+#number_two{
+    color: blue;
+    font-size: 36px;
+}
+
+#number_four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.cool_odd{
+    font-size: 24px;
+}
+
+.odd{
+    background-color:lightpink;
+    font-family:Verdana,'DejaVu San',sans-serif;
+}
+
